@@ -11,3 +11,11 @@ git add -A[to add all untracked files to staging area]
 git commit -m "commit message" [to move staged files to local repository]
 
 git config --list
+
+git branch [list all branches]
+
+git remote add remote_name "path" [to add remote repository to local]
+
+git path remote_name branch_name [push ]
+
+git remote -v [list all remotes]
